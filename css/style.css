@@ -1,0 +1,36 @@
+body {
+    background-image: url("../img/purpleBackground.jpg");
+    background-repeat: no-repeat, repeat;
+    background-color: #cccccc;
+}
+#menu{
+    font-size: 30px;
+    margin-top: 10px;
+    height: 65px;
+    border-radius: 20px;
+}
+#jinIcon{
+    background-image: url("../img/on.ico");
+    background-repeat: no-repeat;
+    background-size: 45px 45px;
+    object-fit: contain;
+    border-radius: 10px;;
+    width: 45px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    height: 45px;
+    font-size: 16px;
+
+}
+
+#mainMenu{
+    background-image: url("../img/purpleBackground.jpg");
+    border-radius: 10px;;
+    width: 73%;
+    margin-top: 10px;
+    margin-left: 250px;
+    margin-bottom: 10px;
+    height: 45px;
+}
+
